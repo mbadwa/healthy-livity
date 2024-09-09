@@ -43,3 +43,13 @@
 2. Cover salmon an vegetables in olive oil, salt, and pepper
 3. Spread evenly on a baking sheet and bake for 15 minutes or until the salmon and veggies are fully cooked
 4. Serve strawberries on the side for dessert
+
+## Day five - Chicken Vegetable Stir Fry
+
+![alt](/Dinner/img/chickenVegetabaleStirFry.png)
+
+### How to make:
+
+1. In a pan add 1 tbsp of olive oil over medium heat. Add in sliced chicken and 1 tsp of soy sauce and cook for 3-5 minutes or until fully cooked
+2. Remove chicken and add all the vegetables and garlic- saute for 3-5 minutes
+3. Serve with vegetables and chicken together

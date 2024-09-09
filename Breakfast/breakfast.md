@@ -41,3 +41,11 @@
 2. Leave overnight in the refrigerator and enjoy the next morning
 3. Sprinkle with chopped almonds and serve
 
+## Day five breakfast - Cinnamon Banana Toast
+
+![alt](/Breakfast/img/cinnamonBananaToast.png)
+
+### How to make:
+
+1. Top toast with peanut butter and banana slices
+2. Sprinkle with cinnamon and enjoy

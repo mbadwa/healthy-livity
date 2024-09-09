@@ -33,3 +33,11 @@
 ### How to make:
 
 1. Serve all ingredients together. Spread cheese on crackers and enjoy the jerky on the side
+
+## Day five snacking - Cheese and Beef Jerky
+
+![alt](/Snack/img/cheeseAndBeefJerky.png)
+
+### How to make:
+
+1. Enjoy the ingredients together
