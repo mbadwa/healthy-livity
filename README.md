@@ -1,4 +1,4 @@
-### Meals for a balanced healthy lifestyle for fitness livlihood. Easy to make meals and plenty to choose from. You can find all meal plans here, enjoy your next meal:
+### Meals for a balanced healthy lifestyle for fitness livlihood. Yummy, easy to make meals and a plethora of choices. Go ahead, dig in! Bon appétit!
 
 1. [Breakfast](/Breakfast/breakfast.md)
 2. [Lunch](/Lunch/lunch.md)
