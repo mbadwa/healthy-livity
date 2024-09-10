@@ -41,3 +41,11 @@
 ### How to make:
 
 1. Enjoy the ingredients together
+
+## Day six snacking - Cheese and Grapes
+
+![alt](/Snack/img/cheeseAndGrapes.png)
+
+### How to make:
+
+1. Enjoy the ingredients together

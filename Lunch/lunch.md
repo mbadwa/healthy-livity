@@ -42,3 +42,11 @@
 ### How to make:
 
 1. Toss all ingredients together
+
+## Day six lunch - Turkey Hummus Wrap
+
+![alt](/Lunch/img/turkeyHummusWrap.png)
+
+### How to make:
+
+1. Place tortilla flat on a plate, layer the rest of ingredients and roll tightly into a wrap and enjoy

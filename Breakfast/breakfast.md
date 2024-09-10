@@ -49,3 +49,11 @@
 
 1. Top toast with peanut butter and banana slices
 2. Sprinkle with cinnamon and enjoy
+
+## Day six breakfast
+
+![alt](/Breakfast/img/berryBananaAndYogurtSmothie.png)
+
+### How to make:
+
+1. Add all ingredients to a blender a blend for about 30 seconds
