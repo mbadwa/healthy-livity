@@ -1,6 +1,6 @@
 # Killer Snacks
 
-## Day one snacking - Apple and Peanut Butter
+## Apple and Peanut Butter
 
 ![alt](/Snack/img/appleAndPeanutButter.png)
 
@@ -8,7 +8,7 @@
 
 1. Slice apple and serve with peanut butter and pretzels
 
-## Day two snacking - Vegetables with Ranch Dressing
+## Vegetables with Ranch Dressing
 
 ![alt](/Snack/img/vegitablesWithRanchDressing.png)
 ### How to make:
@@ -17,7 +17,7 @@
 2. Serve grape on the side
 
 
-## Day three snacking - Greek Yogurt Parfait
+## Greek Yogurt Parfait
 
 ![alt](/Snack/img/greekYogurtParfait.png)
 
@@ -26,7 +26,7 @@
 1. Serve ingredients together and enjoy
 
 
-## Day four snacking - Cheese And Crackers Beef Jerk
+## Cheese And Crackers Beef Jerk
 
 ![alt](/Snack/img/cheeseAndCrackersBeefJerk.png)
 
@@ -34,7 +34,7 @@
 
 1. Serve all ingredients together. Spread cheese on crackers and enjoy the jerky on the side
 
-## Day five snacking - Cheese and Beef Jerky
+## Cheese and Beef Jerky
 
 ![alt](/Snack/img/cheeseAndBeefJerky.png)
 
@@ -42,10 +42,26 @@
 
 1. Enjoy the ingredients together
 
-## Day six snacking - Cheese and Grapes
+## Cheese and Grapes
 
 ![alt](/Snack/img/cheeseAndGrapes.png)
 
 ### How to make:
 
 1. Enjoy the ingredients together
+
+## Yogurt Parfait
+
+![alt](/Snack/img/yogurtParfait.png)
+
+### How to make:
+
+1. Serve ingredients together in a bowl
+
+## Pistachios Banana Yogurt
+
+![alt](/Snack/img/pistachiosBananaYogurt.png)
+
+## How to make:
+
+1. Cut the banana, and enjoy the snack with yogurt and pistachios!

@@ -50,3 +50,25 @@
 ### How to make:
 
 1. Place tortilla flat on a plate, layer the rest of ingredients and roll tightly into a wrap and enjoy
+
+## Hearty Egg and Baked Potato Salad
+
+![alt](/Lunch/img/heartyEggyAndBakedPotatoSalad.png)
+
+### How to make:
+
+1. Boil the potatoes unpeeled till ready and set to cool
+2. Peel and dice the potatoes
+3. Boil and chop the eggs
+4. Wash and dice the cucumber
+5. Then dice the tomato
+6. Wash and drain salad leaves. Pull the leaves apart with your hands or cut with a knife
+7. Mix together with yogurt, add salt to taste
+
+## Pasta Salad
+
+![alt](/Lunch/img/pastaSalad.png)
+
+### How to make:
+
+1. Add all ingredients to a bowl; mix and stir
