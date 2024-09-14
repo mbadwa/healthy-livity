@@ -116,3 +116,13 @@
 
 1. Heat the beans in the microwave for about 45 seconds Divide the chicken, cheese and beans between the 2 tortillas and enjoy
 2. Serve apple on the side for dessert
+
+## Chicken Vegetable Stir Fry
+
+![alt](/Dinner/img/chickenVegetabaleStirFry.png)
+
+### How to make:
+
+1. In a pan olive oil over medium heat. Add in sliced chicken, soy sauce and cook for 3-5 minutes or until fully cooked
+2. Remove chicken and add all the vegetables and garlic - saute for 3-5 minutes. Serve with vegetables and chicken together
+3. Serve grapes for dessert

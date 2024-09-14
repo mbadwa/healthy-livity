@@ -76,3 +76,11 @@
 1. Mix cottage cheese with chopped dill, salt and pepper
 2. Toast/grill a couple of toast slices on both sides. Spread the cottage cheese mix on a piece of toast, add tomato slices on top
 3. Pre-heat the oven to 356°F. Deseed the apple, add chopped nuts into the hole. Bake for 15 min
+
+## Peanut Butter and Blueberry Smoothie
+
+![alt](/Breakfast/img/peanutButterAndBlueberrySmoothie.png)
+
+### How to make:
+
+1. Add all ingredients to a blender and blend for about 20-30 seconds
